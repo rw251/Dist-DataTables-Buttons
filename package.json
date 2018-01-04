@@ -22,15 +22,15 @@
     "bugs": "https://datatables.net/forums",
     "license": "MIT",
     "author": {
-        "name": "SpryMedia Ltd",
+        "name": "Richard Williams",
         "url": "http://datatables.net"
     },
     "dependencies": {
         "jquery": ">=1.7",
-        "datatables.net": "^1.10.15"
+        "datatables": "git+https://git@github.com/rw251/DataTables.git",
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/DataTables/Dist-DataTables-Buttons.git"
+        "url": "https://github.com/rw251/Dist-DataTables-Buttons.git"
     }
 }

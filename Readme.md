@@ -1,3 +1,5 @@
+*This is a fork from release 1.10.16 of [DataTables/Dist-DataTables-Buttons](https://github.com/DataTables/Dist-DataTables-Buttons) with one change to change the dependency on datatables.net to a forked version which allows default direction within multi-column sorting. See this [rejected pull request](https://github.com/DataTables/DataTables/pull/331) for more details.*
+
 # Buttons for DataTables 
 
 This package contains distribution files for the [Buttons extension](https://datatables.net/extensions/buttons) for [DataTables](https://datatables.net/). Only the core software for this library is contained in this package - to be correctly styled, a styling package for Buttons must also be included. Styling options include DataTable's native styling, [Bootstrap](http://getbootstrap.com) and [Foundation](http://foundation.zurb.com/).
