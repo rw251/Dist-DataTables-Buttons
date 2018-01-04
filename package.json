@@ -27,7 +27,7 @@
     },
     "dependencies": {
         "jquery": ">=1.7",
-        "datatables": "git+https://git@github.com/rw251/DataTables.git"
+        "datatables.net": "git+https://git@github.com/rw251/DataTables.git"
     },
     "repository": {
         "type": "git",
